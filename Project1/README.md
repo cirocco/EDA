@@ -5,11 +5,12 @@ particular, it uses the “Individual household electric power consumption Data 
 
 **Dataset:** [Electric power consumption](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip) [20Mb]
 
-The project recreates four(4) "fast" plots of variables within the data, as specified on the assignment page, [visible here.](https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1) The plots and the code that creates them are both available for viewing in this directory.
+The project recreates four(4) "fast" plots of variables within the data, as specified on the assignment page, [visible here.](https://www.coursera.org/learn/exploratory-data-analysis/peer/ylVFo/course-project-1) The plots and the code that creates them are included in this directory.
 
 **Description:** Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
-The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
+##The following descriptions of the 9 variables in the dataset are taken from the UCI web site:##
+
 **Date:** Date in format dd/mm/yyyy
 
 **Time:** time in format hh:mm:ss
