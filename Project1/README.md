@@ -9,7 +9,7 @@ The project recreates four(4) "fast" plots of variables within the data, as spec
 
 **Description:** Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
-###Variables:###
+-----Variables:-----
 
 **Date:** Date in format dd/mm/yyyy
 
